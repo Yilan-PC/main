@@ -2,7 +2,7 @@
 
  => FREE HTML TEMPLATE LICENSE BY HTML Codex
 
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author�s credit link/attribution link/backlink.
+ All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author�s credit link/attribution link/backlink.
 
  When you download or use our free HTML templates, it will attribute the following conditions.
 
@@ -22,7 +22,7 @@
 
  => YOU ARE NOT ALLOWED
 
-      1. You are not allowed to remove the author�s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
+      1. You are not allowed to remove the author�s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
 
       2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
 
@@ -36,3 +36,42 @@
 
 
  => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+
+
+ 
+=> 由 HTML Codex 提供的免費 HTML 樣板版權所有。
+
+ 所有由HTML Codex提供的免費HTML模板均採用創用 CC 姓名標示 4.0 國際條款授權。
+
+ 當您下載或使用我們的免費HTML模板時，它會歸屬於以下條件。
+
+
+ => 您可以
+
+      1. 允許用於個人或商業用途。
+
+      2. 您可以隨意修改/定制。
+
+      3. 允許您轉換/移植至任何 CMS 使用。
+
+      4. 允許以 HTML Codex 品牌名稱分享/散佈。
+
+      5. 您可以在您的博客文章或任何其他網站中放置截圖或鏈接。
+
+
+ => 您不得
+
+      1. 在沒有購買信用移除授權(Credit Removal License) ( https://htmlcodex.com/credit-removal ) 的情況下，您不允許移除作者的信用鏈接/鳴謝鏈接/後綴鏈接。
+
+      2. 2. 不得出售、轉售、出租、租賃、許可或再許可。
+
+      3. 3. 未經我們許可，不得上傳到您的模板網站或模板收藏網站或任何其他第三方網站。
+
+
+ => 如果模板包含高級圖庫照片，這些照片僅用於演示目的，不與模板一起分發。您需要從相應的圖庫照片網站單獨購買。如有必要，您有責任遵守其原始許可證。
+
+
+ => 如果您違反任何這些條件，此許可將被終止。
+
+
+ => 購買信用移除授權 ( https://htmlcodex.com/credit-removal )
