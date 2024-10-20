@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* ... existing CSS styles ... */
+    </style>
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://your-website1.com">Website 1</a>
+        <a href="https://your-website2.com">Website 2</a>
+        <a href="https://your-website3.com">Website 3</a>
+        <!-- Add more links as needed -->
+
+        <form id="addLinkForm" onsubmit="addLink(event)">
+            <input type="text" id="newLinkInput" placeholder="Enter URL">
+            <input type="submit" value="Add Link">
+        </form>
+    </div>
+
+    <h2>Click on the "hamburger" icon to open the side navigation menu.</h2>
+
+    <span style="font-size:30px;cursor:pointer" onclick="toggleNav()">&#9776;</span>
+
+    <script>
+        function toggleNav() {
+            var sidenav = document.getElementById("mySidenav");
+            if (sidenav.style.width === "250px") {
+                closeNav();
+            } else {
+                openNav();
+            }
+        }
+
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+
+        function addLink(event) {
+            event.preventDefault();
+            var newLinkInput = document.getElementById("newLinkInput");
+            var newLink = newLinkInput.value;
+
+            if (newLink.trim() !== "") {
+                var newLinkElement = document.createElement("a");
+                newLinkElement.href = newLink;
+                newLinkElement.textContent = newLink;
+
+                var sidenav = document.getElementById("mySidenav");
+                sidenav.insertBefore(newLinkElement, sidenav.lastElementChild);
+
+                newLinkInput.value = "";
+            }
+        }
+    </script>
+</body>
+</html>
